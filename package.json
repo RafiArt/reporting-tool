@@ -1,0 +1,19 @@
+{
+  "name": "reporting-tool",
+  "version": "1.0.0",
+  "description": "Reporting tool is a generic aviation safety occurrence reporting software. It was developed as part of the [INBAS](https://www.inbas.cz) project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbss-cvut/reporting-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbss-cvut/reporting-tool/issues"
+  },
+  "homepage": "https://github.com/kbss-cvut/reporting-tool#readme"
+}
